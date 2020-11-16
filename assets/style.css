@@ -20,3 +20,7 @@ body {
     border-radius: 0;
     border-bottom: solid 10px black;
   }
+
+  textarea {
+      width: 100%
+  }
